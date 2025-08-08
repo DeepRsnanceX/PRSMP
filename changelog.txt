@@ -1,5 +1,8 @@
 v1.0.1
 - Released the PRSMP UPDATER.
+- Fixed a graphical issue with Appleskin's saturation overlay.
 - Updated the Font to a more readable one.
-- Applied the Discord Patches (just to be safe)
-- Removed PackAnalytics (unnecesary)
+- Applied the Discord Patches (just to be safe).
+- Removed PackAnalytics (unnecesary).
+- Added the Spain flag.
+- Added a server-wide message when a player uses a totem (hopefully).
