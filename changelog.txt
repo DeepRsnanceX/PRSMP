@@ -1,3 +1,5 @@
 v1.0.1
 - Released the PRSMP UPDATER.
 - Updated the Font to a more readable one.
+- Applied the Discord Patches (just to be safe)
+- Removed PackAnalytics (unnecesary)
