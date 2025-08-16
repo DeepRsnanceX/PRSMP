@@ -10,7 +10,7 @@ v1.0.2
 - Added SimplySwords mod.
 - Added Transmog mod.
 - Nerfs and adjustments to Iron's spells.
-v1.0.3 & v1.0.4
+v1.0.3 - v1.0.5
 - Added missing dependency (Atlas API).
 - Fixed Transmog's config.
 
