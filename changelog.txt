@@ -1,3 +1,16 @@
+v1.0.2
+- Updated Iron's spells & spellbooks (3.14.0 -> 3.14.2).
+- Updated Mythic Metals (0.24.1 -> 0.24.3).
+- Added Better McDonalds mod.
+- Added Born in Chaos mod.
+- Added Enderman Overhaul mod.
+- Added Iron's jewelry mod.
+- Added Linked Chests mod.
+- Added Metal Bundles mod.
+- Added SimplySwords mod.
+- Added Transmog mod.
+- Nerfs and adjustments to Iron's spells.
+
 v1.0.1
 - Released the PRSMP UPDATER.
 - Fixed a graphical issue with Appleskin's saturation overlay.
@@ -5,4 +18,4 @@ v1.0.1
 - Applied the Discord Patches (just to be safe).
 - Removed PackAnalytics (unnecesary).
 - Added the Spain flag.
-- Added a server-wide message when a player uses a totem (hopefully).
+- Added a server-wide message when a player uses a totem.
