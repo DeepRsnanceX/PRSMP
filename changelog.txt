@@ -10,6 +10,8 @@ v1.0.2
 - Added SimplySwords mod.
 - Added Transmog mod.
 - Nerfs and adjustments to Iron's spells.
+.0.3
+- Added missing dependency (Atlas API)
 
 v1.0.1
 - Released the PRSMP UPDATER.
