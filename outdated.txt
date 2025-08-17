@@ -1,4 +1,7 @@
 true
+mods/sophisticatedbackpacks-1.21.1-3.24.18.1284.jar
+mods/sophisticatedcore-1.21.1-1.3.55.1037.jar
+mods/sophisticatedstorage-1.21.1-1.4.43.1197.jar
 mods/packanalytics-neoforge-1.0.5-1.21.1.jar
 mods/irons_spellbooks-1.21.1-3.14.0.jar
 mods/mythicmetals-0.24.1+1.21.jar
