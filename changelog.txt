@@ -1,3 +1,8 @@
+v1.0.8
+- Added KubeJS as a server util for the future.
+- Added AttributeFix (uncaps many attributes).
+- Added GTBC's Spellbooks - Iron's Spells Addon.
+
 v1.0.7
 - Updated all Sophisticated mods (Core, Backpacks & Storage)
 
