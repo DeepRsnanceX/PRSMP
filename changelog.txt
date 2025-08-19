@@ -2,7 +2,7 @@ v1.0.9
 - Removed KubeJS and its dependencies/addons (completely broken in 1.21.1)
 - Added Item Obliterator.
 - [Server] Added Improved Mobs.
-- [v1.0.10] Fixed Item Obliterator's config.
+- [v1.0.11] Added missing lib.
 
 v1.0.8
 - Added KubeJS as a server util for the future.
