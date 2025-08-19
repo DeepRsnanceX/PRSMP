@@ -1,4 +1,7 @@
 true
+mods/kubejs-neoforge-2101.7.1-build.181.jar
+mods/kubejstweaks-0.0.3-beta.jar
+mods/rhino-2101.2.7-build.77.jar
 mods/sophisticatedbackpacks-1.21.1-3.24.18.1284.jar
 mods/sophisticatedcore-1.21.1-1.3.55.1037.jar
 mods/sophisticatedstorage-1.21.1-1.4.43.1197.jar
