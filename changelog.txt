@@ -1,3 +1,17 @@
+v1.1.0 [CONTENT UPDATE]
+- Updates Absolution's Custom Mod.
+- Added Create.
+- Added BossesN'Rise.
+- Added Ultimate Car Mod.
+- Added DailyShop.
+- Added Hammers.
+- Added Hand Over Your Items.
+- Added PlayerRevive.
+- Added Shoppy.
+- Added TooManyBows.
+- [Server] Nerfed Iron's Jewelry slightly.
+- [Server] Nerfed Spells.
+
 v1.0.9
 - Removed KubeJS and its dependencies/addons (completely broken in 1.21.1)
 - Added Item Obliterator.
