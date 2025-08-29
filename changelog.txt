@@ -1,3 +1,10 @@
+v1.1.1
+- Updated Absolution's Custom Mod.
+- Removed a few mods for optimization reasons.
+- Added Pastel.
+- Tweaked some configs to (Hopefully) reduce crashes and improve performance.
+[GAME MAY TAKE LONGER TO BOOT WITH THIS UPDATE ON, THAT'S NORMAL!!!! "Not Responding" doesn't mean the game won't launch. Give it some time. Not much i can do when the added mod is 90MB... It's all for the experience of the event, i guess.]
+
 v1.1.0 [CONTENT UPDATE]
 - Updates Absolution's Custom Mod.
 - Added Create.

@@ -1,4 +1,11 @@
 true
+mods/boatiview-neoforge-0.0.6-1.21.1.jar
+mods/particlerain-4.0.0-alpha-2+1.21.1-neoforge.jar
+mods/spark-1.10.124-neoforge.jar
+mods/lootbeams-3.6.1-mc1.21-.1.jar
+mods/SubtleEffects-neoforge-1.21.1-1.11.0.jar
+mods/particle_effects-1.21.1-NeoForge-1.0.1.jar
+mods/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar
 mods/kubejs-neoforge-2101.7.1-build.181.jar
 mods/kubejstweaks-0.0.3-beta.jar
 mods/rhino-2101.2.7-build.77.jar
