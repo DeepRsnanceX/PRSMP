@@ -1,7 +1,12 @@
+v1.1.2
+- Updated Absolution's Custom Mod.
+- Added Forgiving World.
+
 v1.1.1
 - Updated Absolution's Custom Mod.
 - Removed a few mods for optimization reasons.
 - Added Pastel.
+- Added Crystal Chronicles.
 - Tweaked some configs to (Hopefully) reduce crashes and improve performance.
 [GAME MAY TAKE LONGER TO BOOT WITH THIS UPDATE ON, THAT'S NORMAL!!!! "Not Responding" doesn't mean the game won't launch.]
 
