@@ -1,3 +1,13 @@
+v1.1.4
+- Added Etched.
+- Added Forbidden Arcanus.
+- Added Malum.
+- Added Dark Doppelganger.
+- Added Iron's Spells and Spellbooks addons:
+    + Cataclysm: Spellbooks.
+    + Hazen N' Stuff.
+    + Aero Additions.
+
 v1.1.3
 - Updated Absolution's Custom Mod.
 - Added PastelJEI.
