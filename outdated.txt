@@ -1,4 +1,5 @@
 true
+config/fancymenu/customization/menu.txt
 mods/boatiview-neoforge-0.0.6-1.21.1.jar
 mods/particlerain-4.0.0-alpha-2+1.21.1-neoforge.jar
 mods/spark-1.10.124-neoforge.jar
