@@ -1,3 +1,9 @@
+v1.1.7
+- Fixed Magitech.
+- Updated Absolution's Custom Mod.
+- Added alternatives in the Game's Pause Menu to view and reroll daily quests.
+- Added InventoryHUD.
+
 v1.1.6
 - Updated Absolution's Custom Mod.
 - Added A Man With Plushies.
