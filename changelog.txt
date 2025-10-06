@@ -1,6 +1,5 @@
 v1.1.8
 - Removed Magitech due to it causing way too many issues.
-- Added Watermedia VideoPlayer.
 
 v1.1.7
 - Fixed Magitech.
