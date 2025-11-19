@@ -1,6 +1,9 @@
+v1.3.0
+- Added a new custom-made mod - PR-GAMBLING!
+
 v1.2.0
-oe ya no juega nadie mano
-meti 3 mods
+- Added Slag n' Embers.
+- Added L2 Weaponry (And all of its dependencies)
 
 v1.1.8
 - Removed Magitech due to it causing way too many issues.
